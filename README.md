@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lazarus Muya</h1>
 <h3 align="center">Am a python Lover and currently working with Flutter and PySide6 to create both Mobile and Desktop applications.</h3>
 
-- 🔭 I’m currently working on [PyPlay Windows Player](https://github.com/tjpin/pyplay)
+- 🔭 I’m currently working on personal projects [Chairman Studios](https://youtube.com/channel/UCQdH3uO0rIg5ctg8PFb27Pg)
 
 - 🌱 I’m currently learning **Flutter & C++**
 
-- 👨‍💻 All of my projects are available at [https://chairmanstudios.net](https://chairmanstudios.net)
+- 👨‍💻 All of my projects will be available at [https://chairmanstudios.net](https://chairmanstudios.net)
 
-- 💬 Ask me about **Python, PyQt6, PySide6, Qml, Django, Kivy, Flutter**
+- 💬 Follow me if you love 👉🏿 **Python, PyQt6, PySide6, Qml, Django, Kivy, Flutter**
 
-- 📫 How to reach me **developer@chairmanstudios.net**
+- 📫 Reach me at **developer@chairmanstudios.net**
 
-- 📄 Know about my experiences [Am self taught Developer who enjoy coding.](Am self taught Developer who enjoy coding.)
+- 📄 Am self taught Developer who enjoy coding.
 
 - ⚡ Fun fact **Am a funny introvert.**
 
@@ -19,8 +19,8 @@
 <p align="left">
 <a href="https://twitter.com/lazarusmuya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lazarusmuya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lazarus muya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lazarus muya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/chairman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chairman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chairman studios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chairman studios" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12939421/chairman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chairman" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCQdH3uO0rIg5ctg8PFb27Pg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chairman studios" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
