@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lazarus Muya</h1>
+<h1 align="center">👋, My name is Lazarus Muya 🤝🏽</h1>
 <h3 align="center">Am a python Lover and currently working with Flutter and PySide6 to create both Mobile and Desktop applications.</h3>
 
 - 🔭 I’m currently working on personal projects [Chairman Studios](https://youtube.com/channel/UCQdH3uO0rIg5ctg8PFb27Pg)
