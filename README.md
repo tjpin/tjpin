@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Flutter & C++**
 
-- 👨‍💻 All of my projects will be available at [https://chairmanstudios.net](https://chairmanstudios.net)
-
 - 💬 Follow me if you love 👉🏿 **Python, PyQt6, PySide6, Qml, Django, Kivy, Flutter**
 
-- 📫 Reach me at **developer@chairmanstudios.net**
+- 📫 Reach me through **lazarus.muya@workmail.com**
 
 - 📄 Am self taught Developer who enjoy coding.
 
